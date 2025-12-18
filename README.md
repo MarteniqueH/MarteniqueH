@@ -1,5 +1,3 @@
-👋 Hi, I’m @MarteniqueH
-🌱 I’m currently working on an AI Driven Budgeting Application 
-🎓 I’m a student at Western Governers University, studying Computer Science
-💞️ I’m looking to collaborate on backend projects and software development initiatives
-📫 You can reach me at Marteniqueh98@gmail.com
+I am a Computer Science student at Western Governors University pursuing a Bachelor of Science in Computer Science, with an expected graduation in 2026. I have experience working with Python, Java, C++, JavaScript, SQL, HTML, and CSS, and a strong foundation in software engineering principles, data structures, algorithms, and object-oriented programming.
+
+My academic work includes projects in Java, Python, and C++ involving backend logic, data management, and system design, such as building a Spring-based inventory application, implementing a delivery routing algorithm with custom data structures, and developing an object-oriented student record system. I use Git and GitHub for version control and focus on writing clear, maintainable code and technical documentation.
