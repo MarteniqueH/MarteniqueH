@@ -1,3 +1,20 @@
-I am a Computer Science student at Western Governors University pursuing a Bachelor of Science in Computer Science, with an expected graduation in 2026. I have experience working with Python, Java, C++, JavaScript, SQL, HTML, and CSS, and a strong foundation in software engineering principles, data structures, algorithms, and object-oriented programming.
+## 👋 About Me
 
-My academic work includes projects in Java, Python, and C++ involving backend logic, data management, and system design, such as building a Spring-based inventory application, implementing a delivery routing algorithm with custom data structures, and developing an object-oriented student record system. I use Git and GitHub for version control and focus on writing clear, maintainable code and technical documentation.
+I’m a Computer Science student graduating in Summer 2026, focused on backend development and full-stack engineering. I enjoy building scalable applications, RESTful APIs, and data-driven systems using Java and Python.
+
+My experience includes developing full-stack web applications with Spring Boot, designing backend systems with clean architecture, and implementing algorithm-based solutions for real-world problems such as routing optimization and inventory management.
+
+I’m especially interested in backend engineering, system design, and building tools that improve efficiency, automation, and user experience.
+
+---
+
+## 💡 What I’m Working On
+- Backend systems and REST APIs with Java + Spring Boot
+- Full-stack applications using modern frameworks
+- Algorithmic problem solving and data structures
+- Expanding cloud and AI integration skills
+
+---
+
+## 🛠 Tech Focus
+Java · Python · Spring Boot · REST APIs · SQL · JavaScript · Git · Docker · AWS (learning)
