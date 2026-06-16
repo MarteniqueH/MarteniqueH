@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 
 I’m a Computer Science student graduating in Summer 2026, focused on backend development and full-stack engineering. I enjoy building scalable applications, RESTful APIs, and data-driven systems using Java and Python.
 
@@ -8,7 +8,7 @@ I’m especially interested in backend engineering, system design, and building 
 
 ---
 
-## 💡 What I’m Working On
+##  What I’m Working On
 - Backend systems and REST APIs with Java + Spring Boot
 - Full-stack applications using modern frameworks
 - Algorithmic problem solving and data structures
@@ -16,5 +16,5 @@ I’m especially interested in backend engineering, system design, and building 
 
 ---
 
-## 🛠 Tech Focus
+## Tech Focus
 Java · Python · Spring Boot · REST APIs · SQL · JavaScript · Git · Docker · AWS (learning)
