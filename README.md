@@ -1,10 +1,10 @@
 ## About Me
 
-I’m a Computer Science student graduating in Summer 2026, focused on backend development and full-stack engineering. I enjoy building scalable applications, RESTful APIs, and data-driven systems using Java and Python.
+Computer Science student graduating October 2026 with a focus on backend software engineering. I build production-style applications using Java, Spring Boot, PostgreSQL, Docker, AWS, and REST APIs.
 
-My experience includes developing full-stack web applications with Spring Boot, designing backend systems with clean architecture, and implementing algorithm-based solutions for real-world problems such as routing optimization and inventory management.
+My projects include secure authentication systems, AI-powered document processing, full-stack web applications, and algorithmic optimization solutions. I enjoy designing scalable backend systems, writing clean, maintainable code, and solving complex technical problems.
 
-I’m especially interested in backend engineering, system design, and building tools that improve efficiency, automation, and user experience.
+Currently expanding my knowledge of distributed systems, cloud architecture, and software engineering best practices while preparing for a career as a Backend Software Engineer.
 
 ---
 
