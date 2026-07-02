@@ -9,10 +9,10 @@ Currently expanding my knowledge of distributed systems, cloud architecture, and
 ---
 
 ##  What I’m Working On
-- Backend systems and REST APIs with Java + Spring Boot
-- Full-stack applications using modern frameworks
-- Algorithmic problem solving and data structures
-- Expanding cloud and AI integration skills
+- Building StudentSpace, a Spring Boot + React academic platform
+- Expanding Java backend architecture and Spring Security expertise
+- Practicing algorithms and data structures through LeetCode
+- Learning AWS deployment and cloud-native development
 
 ---
 
