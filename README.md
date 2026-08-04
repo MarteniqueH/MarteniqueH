@@ -2,7 +2,7 @@
 
 ## Software Engineer | Backend Development | Java | Python | APIs
 
-I'm a Computer Science student graduating Summer 2026 focused on building backend systems, RESTful APIs, and full-stack applications.
+I'm a Computer Science student graduating October 2026 focused on building backend systems, RESTful APIs, and full-stack applications.
 
 I specialize in:
 - Java backend development with Spring Boot
@@ -15,7 +15,7 @@ Currently building projects involving backend engineering, cloud technologies, a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 Java · Python · JavaScript · TypeScript · C++ · HTML · CSS
@@ -38,7 +38,7 @@ AWS (EC2, S3, IAM) · OpenAI API · LLM Integration · Prompt Engineering
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## StudentSpace
 **Java · Spring Boot · React · PostgreSQL · OpenAI API**
@@ -93,7 +93,7 @@ Highlights:
 
 ---
 
-# 💼 Experience
+#  Experience
 
 ## Peer Coach II — School of Technology
 **Western Governors University**
@@ -105,7 +105,7 @@ Highlights:
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Advanced Spring Boot architecture
 - Cloud-native application development
@@ -114,7 +114,7 @@ Highlights:
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 - AWS Certified Cloud Practitioner
 - Linux Essentials
@@ -122,9 +122,9 @@ Highlights:
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 📍 Jacksonville, FL  
-📧 Marteniqueh98@gmail.com
+Marteniqueh98@gmail.com
 
 GitHub: https://github.com/MarteniqueH
