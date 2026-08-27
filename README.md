@@ -1,4 +1,4 @@
-# Hi, I'm Martenique Harmon 👋
+# Hi, I'm Martenique Harmon
 
 ## Software Engineer | Backend Development | Java | Python | APIs
 
