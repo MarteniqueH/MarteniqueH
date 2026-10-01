@@ -2,8 +2,7 @@
 
 ## Software Engineer | Backend Development | Java | Python | APIs
 
-I'm a Computer Science student graduating October 2026 focused on building backend systems, RESTful APIs, and full-stack applications.
-
+BS Computer Science | Western Governors University
 I specialize in:
 - Java backend development with Spring Boot
 - REST API design and database architecture
