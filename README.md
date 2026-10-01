@@ -3,6 +3,7 @@
 ## Software Engineer | Backend Development | Java | Python | APIs
 
 BS Computer Science | Western Governors University
+
 I specialize in:
 - Java backend development with Spring Boot
 - REST API design and database architecture
